@@ -5,6 +5,8 @@
 # Create a simple linux new virtual machine.
 ###############################################################################
 
+# You need ahve a resour group for create a simple linuz vm
+# The parameters vm Name, rg Name, Location, size, user Name, and Password can be modified!
 echo "======================================================================="
 echo "=== Create Virtual Machine ==="
 echo "======================================================================="
